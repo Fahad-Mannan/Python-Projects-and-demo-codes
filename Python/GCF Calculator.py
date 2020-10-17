@@ -1,4 +1,4 @@
-'''Welcome to my Greatest Common Factor counter!
+'''Welcome to the "Greatest Common Factor" counter!
 Just run the program and put as many values as you want.
 This will Find the GCF of those values for you.'''
 
